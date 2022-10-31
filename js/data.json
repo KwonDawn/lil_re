@@ -1,0 +1,11 @@
+[
+    {"id":"1", "name":"하이브리드 2.0 트월케이스", "price":"20,000", "image":"./imag/data1.jpeg"},
+    {"id":"2", "name":"하이브리드 2.0 실리콘 케이스", "price":"8,000", "image":"./imag/data2.jpeg"},
+    {"id":"3", "name":"하이브리드 2.0 투명 케이스", "price":"7,000", "image":"./imag/data3.jpeg"},
+    {"id":"4", "name":"하이브리드 2.0 패브릭 파우치", "price":"40,000", "image":"./imag/data4.jpeg"},
+    {"id":"5", "name":"플러스 이동형 케이스", "price":"18,000", "image":"./imag/data5.jpeg"},
+    {"id":"6", "name":"미니 목걸이 케이스", "price":"12,000", "image":"./imag/data6.jpeg"},
+    {"id":"7", "name":"플러스 스트랩 케이스", "price":"18,000", "image":"./imag/data7.jpeg"},
+    {"id":"8", "name":"하이브리드 2.0 패브릭 케이스", "price":"16,000", "image":"./imag/data8.jpeg"},
+    {"id":"9", "name":"하이브리드 2.0 패브릭 케이스", "price":"16,000", "image":"./imag/data8.jpeg"}
+]
